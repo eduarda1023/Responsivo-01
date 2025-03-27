@@ -1,0 +1,42 @@
+/*mobile*/
+@media screen and (max-width: 480px) {
+    body {
+        background-color: rgb(255, 174, 188);
+    }
+}
+
+/* Extra small devices */
+@media (min-width: 481px) and (max-width: 767px) {
+    body {
+        background-color: rgb(241, 163, 215);
+    }
+}
+
+/* Small tablet */
+@media (min-width: 768px) and (max-width: 991px) {
+    body {
+        background-color: rgb(218, 125, 140);
+    }
+}
+
+  /*Tablet/Laptops*/
+  @media (min-width: 992px) and (max-width:1199px) {
+    body {
+        background-color: rgb(151, 44, 110);
+    }
+  }
+
+   /* Desktops */
+   @media (min-width: 1200px) and (max-width:1999px) {
+    body {
+        background-color: rgb(202, 109, 171);
+    }
+  }
+
+   /* Extra large */
+   @media (min-width: 1920px) {
+    body {
+        background-color: rgb(219, 97, 168)!important;
+    }
+  }
+    
